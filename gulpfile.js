@@ -1,4 +1,3 @@
-'use strict';
 
 // 読みこみ
 var gulp       = require('gulp');
